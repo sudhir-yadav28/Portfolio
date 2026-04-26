@@ -40,7 +40,7 @@ export const projects: Project[] = [
       "/images/projects/creditsage/chat.png",
     ],
     githubUrl: "https://github.com/sudhir-yadav28/Creditsage-sudhir-yadav",
-    liveUrl: "https://creditsage-loan.streamlit.app/",
+    liveUrl: "https://huggingface.co/spaces/Sudhir-y/creditsage-loan",
   },
   {
     id: "geointel",
